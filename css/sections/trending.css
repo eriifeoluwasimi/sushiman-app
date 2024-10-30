@@ -10,7 +10,7 @@
 }
 
 .trending-sushi,
-.trending-drink {
+.trending-drinks {
   width: 100%;
   min-width: 640px;
 
@@ -67,7 +67,7 @@
   color: var(--secondary-color);
 }
 
-.trending__iage {
+.trending__image {
   flex: 1;
 
   position: relative;
