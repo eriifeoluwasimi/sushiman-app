@@ -80,11 +80,11 @@
 }
 
 .trending-sushi .trending__image {
-  background-image: url(../../Asset/sushi_assets/assets/japanese_sushi.png);
+  background-image: url(../../assets/japanese_sushi.png);
 }
 
 .trending-drink .trending__image {
-  background-image: url(../../Asset/sushi_assets/assets/japanese_drinks.png);
+  background-image: url(../../assets/japanese_drinks.png);
 }
 
 .trending__image img {
